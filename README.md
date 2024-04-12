@@ -1,21 +1,14 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+# Hi, this is Javier 👋
+### Freelance full-stack Golang developer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/jaenmo] //(https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy un arquitecto de edificios reconvertido a arquitecto de software. La arquitectura siempre fue mi pasión, en todos los sentidos.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+Tras 7 años viviendo en Shanghai, con un giro en mi carrera profesional, me mudé a Kuala Lumpur, donde continué mi carrera en el sector de la construcción. 
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+En el 2022 volví a España (Tenerife), donde por fin me centré en lo que me gusta.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
@@ -88,62 +81,6 @@ Y alguna más...
 ![https://mouredev.com/lenguajes](./un_dia_un_lenguaje_banner.png)
 
 [![Curso Lenguajes](https://img.shields.io/github/stars/mouredev/one-day-one-language?label=Un%20día,%20un%20lenguaje&style=social)](https://github.com/mouredev/one-day-one-language)
-
-## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-</table>
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
